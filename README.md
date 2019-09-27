@@ -5,10 +5,10 @@ This webscraper searches Craigslist for tickets for events at the Pepsi Center i
 
 
 ## Built With:
-Nightmare
-Node.js
-jsdom
-jquery
+* Nightmare
+* Node.js
+* jsdom
+* jquery
 
 Resources:
 [Powerslacker](https://www.powerslacker.cc/get-started-with-nightmarejs-craigslist-screen-scraping-tutorial/)
