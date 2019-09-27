@@ -1,8 +1,14 @@
 This webscraper searches for tickets for events at the Pepsi Center in Denver.
 
-Result:
+##Result:
 ![screenshot](https://github.com/kawilliams8/web-scraping-workshop/blob/master/Screen%20Shot%202019-09-27%20at%2012.08.19%20PM.png)
 
+
+##Built With:
+Nightmare
+Node.js
+jsdom
+jQuery
 
 Resources:
 [Powerslacker](https://www.powerslacker.cc/get-started-with-nightmarejs-craigslist-screen-scraping-tutorial/)
