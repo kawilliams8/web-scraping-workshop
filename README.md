@@ -1,4 +1,4 @@
-This webscraper searches for tickets for events at the Pepsi Center in Denver. Results are logged to the terminal window.
+This webscraper searches Craigslist for tickets for events at the Pepsi Center in Denver. Results are logged to the terminal window.
 
 ## Result:
 ![screenshot](https://github.com/kawilliams8/web-scraping-workshop/blob/master/Screen%20Shot%202019-09-27%20at%2012.08.19%20PM.png)
